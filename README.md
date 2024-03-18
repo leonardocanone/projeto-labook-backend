@@ -72,5 +72,3 @@ Este projeto foi desenvolvido por:
 **Leonardo Canone** : [LinkedIn](https://www.linkedin.com/in/leonardocanone/) | [GitHub](https://github.com/leonardocanone)
 
 
-
-
